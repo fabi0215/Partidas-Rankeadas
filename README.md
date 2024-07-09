@@ -1,9 +1,18 @@
 # Calculadora de Partidas Rankeadas
 
+**O Que deve ser utilizado**
+- Variáveis
+- Operadores
+- Laços de repetição
+- Estruturas de decisões
+- Funções
+
 ## Objetivo
 
 Este projeto tem como objetivo desenvolver um sistema para classificar o nivel de vitorias e derrotas de cada jogador, sendo que o nível do jogador é determinado com base no número de vitórias.
-sendo classificado desde de Ferro até Imortal conforme o numero de vitorias acumuladas
+sendo classificado desde de Ferro até Imortal conforme o numero de vitorias acumuladas, foi criado uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador,
+depois disso retorne o resultado para uma variável, o saldo de Rankeadas deve ser feito através do calculo (vitórias - derrotas)
+
 
 ## Classificação
 
@@ -27,5 +36,6 @@ sendo classificado desde de Ferro até Imortal conforme o numero de vitorias acu
 
 ### Saída
 
-```tendo como texto de saida
-O Herói {nome_do_herói} tem saldo de {saldo_de_vitórias} e está no nível de {nível}
+```Ao final deve se exibir uma mensagem:
+"O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
+
