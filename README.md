@@ -34,8 +34,41 @@ depois disso retorne o resultado para uma variável, o saldo de Rankeadas deve s
 - Quantidade de vitórias
 - Quantidade de derrotas
 
-### Saída
+ ### Saída
 
 ```Ao final deve se exibir uma mensagem:
 "O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
+
+ ### Links Úteis
+
+<div style="background-color: #007BFF; padding: 10px; border-radius: 5px; color: white;">
+  <a href="https://code.visualstudio.com/" style="color: white; text-decoration: none;">Visual Studio Code</a>
+</div>
+<div style="background-color: #007BFF; padding: 10px; border-radius: 5px; color: white;">
+  <a href="https://docs.github.com/en/get-started/quickstart/github-glossary" style="color: white; text-decoration: none;">Guia de Glossário do GitHub</a>
+</div>
+<div style="background-color: #007BFF; padding: 10px; border-radius: 5px; color: white;">
+  <a href="https://nodejs.org/en/" style="color: white; text-decoration: none;">Node.js</a>
+</div>
+<div style="background-color: #007BFF; padding: 10px; border-radius: 5px; color: white;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide" style="color: white; text-decoration: none;">Documentação do JavaScript</a>
+</div>
+<div style="background-color: #007BFF; padding: 10px; border-radius: 5px; color: white;">
+  <a href="https://github.com/nodejs/node" style="color: white; text-decoration: none;">Repositório Oficial do Node.js no GitHub</a>
+</div>
+<div style="background-color: #007BFF; padding: 10px; border-radius: 5px; color: white;">
+  <a href="https://guides.github.com/introduction/git-handbook/" style="color: white; text-decoration: none;">Tutorial de Git no GitHub</a>
+</div>
+<div style="background-color: #007BFF; padding: 10px; border-radius: 5px; color: white;">
+  <a href="https://git-scm.com/doc" style="color: white; text-decoration: none;">Documentação do Git</a>
+</div>
+<div style="background-color: #007BFF; padding: 10px; border-radius: 5px; color: white;">
+  <a href="https://www.markdownguide.org/basic-syntax/" style="color: white; text-decoration: none;">Documentação do Markdown</a>
+</div>
+<div style="background-color: #007BFF; padding: 10px; border-radius: 5px; color: white;">
+  <a href="adicione_o_link_aqui" style="color: white; text-decoration: none;">Template do Figma</a>
+</div>
+
+
+Este `README.md` oferece uma descrição detalhada do projeto, incluindo seu objetivo, funcionalidades, exemplo de uso, código, como executar, links úteis, instruções de contribuição e licença. Sinta-se à vontade para personalizá-lo conforme necessário.
 
